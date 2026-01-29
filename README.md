@@ -18,6 +18,14 @@
 | 2024.05 ~ 2024.09 | **ASAP** | App Vulnerability Analysis Automation Tool (Vulnerability Scanner Module) |
 | 2024.11 ~ **Present** | **Fuzzmap** | Offensive Tooling Project & Research |
 
+### 🎓 Education
+
+<details>
+  <summary><b>Click to expand/collapse</b></summary>
+  2025.08.11~12 양영디지털고등학교 네트워크 이론 & 패킷 트레이서 강사 (9시간)
+  
+</details>
+
 ### 💻 Tech Stack
 
 #### **Languages**
