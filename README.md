@@ -22,7 +22,7 @@
 
 <details>
   <summary><b>Click to expand/collapse</b></summary>
-  2025.08.11~12 양영디지털고등학교 네트워크 이론 & 패킷 트레이서 강사 (9시간)
+  - 2025.08.11~12 양영디지털고등학교 네트워크 이론 & 패킷 트레이서 강사 (9시간)
   
 </details>
 
