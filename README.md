@@ -10,7 +10,7 @@
 | :--- | :--- | :--- |
 | RubiyaLab CTF | 2025.02 ~ **Present** | CTF Player |
 | SecurityFirst | 2025.08 ~ **Present** | Club Member |
-| Jinddabi's | 2026.05 ~ **Present** | CTF Player & Korea Team lead |
+| Jinddabi's | 2026.05 ~ **Present** | CTF Player & Korea lead |
 
 ### 🎓 Education
 
@@ -32,7 +32,8 @@
 | Award Date | Issuing Organization | Description |
 |---|---|---|
 | 2026.03 | CodeGate Quals 2026 | 5th place team.육개장치즈라면 |
-| 2026.05 | DEF CON CTF Qualifier 2026 | 6th place team.Jinddabi's |
+| 2026.05 | DEF CON CTF 34 Qualifier | 6th place team.Jinddabi's |
+| 2026.08 | DEF CON CTF 34 Finals | 7th place team.Jinddabi's |
 
 
 ### 🏢 Experience
